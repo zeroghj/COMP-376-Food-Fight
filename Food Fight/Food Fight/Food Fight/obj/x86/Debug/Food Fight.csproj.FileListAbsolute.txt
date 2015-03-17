@@ -1,0 +1,43 @@
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\banana.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\floortile2.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\floortile3.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\floortile4.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\floortile5.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\floortyle.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\icecream0.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\icecream1.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\icecream2.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\icecream3.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\Orange.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\pit.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\pizza.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\player1.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\Font.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Food Fight.exe
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Food Fight.pdb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\obj\x86\Debug\Food Fight.exe
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\obj\x86\Debug\Food Fight.pdb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\dead1.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\StandE.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\StandN.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\StandS.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\standW.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\stunned1.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\stunned2.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\WalkL2.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\WalkR2.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\WL1.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\WN1.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\WN2.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\WR1.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\WS1.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\WS2.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\ChefE.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\ChefN.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\ChefS.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\ChefW.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\line.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\Soundtrack.xnb
+C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Debug\Content\Soundtrack.wma

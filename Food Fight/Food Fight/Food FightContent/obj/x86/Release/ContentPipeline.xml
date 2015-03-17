@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>banana.png</Source>
+      <Name>banana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\banana.xnb</Output>
+      <Time>2013-10-29T00:32:52.9875069-04:00</Time>
+    </Item>
+    <Item>
+      <Source>floortile2.png</Source>
+      <Name>floortile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\floortile2.xnb</Output>
+      <Time>2013-10-28T19:47:39.4206669-04:00</Time>
+    </Item>
+    <Item>
+      <Source>floortile3.png</Source>
+      <Name>floortile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\floortile3.xnb</Output>
+      <Time>2013-10-28T19:47:39.422667-04:00</Time>
+    </Item>
+    <Item>
+      <Source>floortile4.png</Source>
+      <Name>floortile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\floortile4.xnb</Output>
+      <Time>2013-10-28T19:47:39.4246671-04:00</Time>
+    </Item>
+    <Item>
+      <Source>floortile5.png</Source>
+      <Name>floortile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\floortile5.xnb</Output>
+      <Time>2013-10-28T19:47:39.4276673-04:00</Time>
+    </Item>
+    <Item>
+      <Source>floortyle.png</Source>
+      <Name>floortyle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\floortyle.xnb</Output>
+      <Time>2013-10-28T19:47:39.4296674-04:00</Time>
+    </Item>
+    <Item>
+      <Source>icecream0.png</Source>
+      <Name>icecream0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\icecream0.xnb</Output>
+      <Time>2013-10-29T00:32:52.9905071-04:00</Time>
+    </Item>
+    <Item>
+      <Source>icecream1.png</Source>
+      <Name>icecream1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\icecream1.xnb</Output>
+      <Time>2013-10-29T00:32:52.9925072-04:00</Time>
+    </Item>
+    <Item>
+      <Source>icecream2.png</Source>
+      <Name>icecream2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\icecream2.xnb</Output>
+      <Time>2013-10-29T00:32:52.9945073-04:00</Time>
+    </Item>
+    <Item>
+      <Source>icecream3.png</Source>
+      <Name>icecream3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\icecream3.xnb</Output>
+      <Time>2013-10-29T00:32:52.9975075-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Orange.png</Source>
+      <Name>Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\Orange.xnb</Output>
+      <Time>2013-10-29T00:32:53.0005076-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pit.png</Source>
+      <Name>pit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\pit.xnb</Output>
+      <Time>2013-10-28T19:47:39.4546688-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pizza.png</Source>
+      <Name>pizza</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\pizza.xnb</Output>
+      <Time>2013-10-29T00:32:53.0025077-04:00</Time>
+    </Item>
+    <Item>
+      <Source>player1.png</Source>
+      <Name>player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\player1.xnb</Output>
+      <Time>2013-10-28T19:47:39.4726698-04:00</Time>
+    </Item>
+    <Item>
+      <Source>dead1.png</Source>
+      <Name>dead1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\dead1.xnb</Output>
+      <Time>2013-10-29T00:32:24.6768876-04:00</Time>
+    </Item>
+    <Item>
+      <Source>StandE.png</Source>
+      <Name>StandE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\StandE.xnb</Output>
+      <Time>2013-10-29T00:32:24.6818879-04:00</Time>
+    </Item>
+    <Item>
+      <Source>StandN.png</Source>
+      <Name>StandN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\StandN.xnb</Output>
+      <Time>2013-10-29T00:32:24.7138897-04:00</Time>
+    </Item>
+    <Item>
+      <Source>StandS.png</Source>
+      <Name>StandS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\StandS.xnb</Output>
+      <Time>2013-10-29T00:32:24.71789-04:00</Time>
+    </Item>
+    <Item>
+      <Source>standW.png</Source>
+      <Name>standW</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\standW.xnb</Output>
+      <Time>2013-10-29T00:32:24.7218902-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stunned1.png</Source>
+      <Name>stunned1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\stunned1.xnb</Output>
+      <Time>2013-10-29T00:32:24.7268905-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stunned2.png</Source>
+      <Name>stunned2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\stunned2.xnb</Output>
+      <Time>2013-10-29T00:32:24.7318908-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkL2.png</Source>
+      <Name>WalkL2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\WalkL2.xnb</Output>
+      <Time>2013-10-29T00:32:24.735891-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkR2.png</Source>
+      <Name>WalkR2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\WalkR2.xnb</Output>
+      <Time>2013-10-29T00:32:24.7398912-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WL1.png</Source>
+      <Name>WL1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\WL1.xnb</Output>
+      <Time>2013-10-29T00:32:24.7438914-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WN1.png</Source>
+      <Name>WN1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\WN1.xnb</Output>
+      <Time>2013-10-29T00:32:24.7488917-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WN2.png</Source>
+      <Name>WN2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\WN2.xnb</Output>
+      <Time>2013-10-29T00:32:24.752892-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WR1.png</Source>
+      <Name>WR1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\WR1.xnb</Output>
+      <Time>2013-10-29T00:32:24.7568922-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WS1.png</Source>
+      <Name>WS1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\WS1.xnb</Output>
+      <Time>2013-10-29T00:32:24.7608924-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WS2.png</Source>
+      <Name>WS2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\WS2.xnb</Output>
+      <Time>2013-10-29T00:32:24.7648926-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ChefE.png</Source>
+      <Name>ChefE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\ChefE.xnb</Output>
+      <Time>2013-10-29T00:32:35.2914947-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ChefN.png</Source>
+      <Name>ChefN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\ChefN.xnb</Output>
+      <Time>2013-10-29T00:32:35.2934949-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ChefS.png</Source>
+      <Name>ChefS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\ChefS.xnb</Output>
+      <Time>2013-10-29T00:32:35.296495-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ChefW.png</Source>
+      <Name>ChefW</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\ChefW.xnb</Output>
+      <Time>2013-10-29T00:32:35.3584986-04:00</Time>
+    </Item>
+    <Item>
+      <Source>line.png</Source>
+      <Name>line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\line.xnb</Output>
+      <Time>2013-10-29T00:32:42.0458811-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\Font.xnb</Output>
+      <Time>2013-10-28T19:47:39.4326675-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Soundtrack.mp3</Source>
+      <Name>Soundtrack</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\Soundtrack.xnb</Output>
+      <Extra>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\Soundtrack.wma</Extra>
+      <Time>2013-10-29T04:06:58.2972166-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food FightContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food FightContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\zeroghj\Desktop\Vincent\school\Fall 2013\Comp 376\Assignment 2\Food Fight\Food Fight\Food Fight\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-13T21:40:20.9882143-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
